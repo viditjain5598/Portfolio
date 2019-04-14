@@ -1,0 +1,25 @@
+i.icon {
+	font-size: 2em;
+}
+
+.container.main {
+	margin-top: 7.0em;
+}
+
+#delete {
+	display: inline;
+}
+
+#date {
+	font-color: rgba(0,0,0,0.6);
+	font-size: 0.9em;
+}
+
+.description {
+	padding: 8px 0;
+}
+
+#buttons {
+	position: absolute;
+	right: 0px;
+}
